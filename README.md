@@ -20,8 +20,6 @@ Program to implement the the Logistic Regression Model to Predict the Placement 
 Developed by: YOGESH V
 RegisterNumber:  212223230250
 */
-```
-```
 import pandas as pd
 data = pd.read_csv('Placement_Data.csv')
 data.head()
